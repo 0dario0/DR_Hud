@@ -31,10 +31,3 @@ It features a Vue.js-based UI, advanced speedometer, player status system, voice
 - Old QBCore
 
 ---
-
-## ⚙️ Installation
-
-1. Download or clone this repository:
-
-```bash
-git clone https://github.com/yourname/DR_Hud.git
